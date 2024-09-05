@@ -2,3 +2,6 @@
 basic tuple to unterstand the concept in Rust and apply 
 
 here will be the thescription
+
+rustc tuplas.rs
+./tuplas.rs
